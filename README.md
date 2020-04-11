@@ -18,22 +18,22 @@ create it very conventional way & very loosely coupled way. Which might give any
 ## Basic Idea (Who is who/what):
 There will be three basic types of user. Like Admin, Buyer, Seller.
 
-Admin (Owner of the platform):
-[] Can create market. 
-[] Can approve shop.
-[] Can see statistics.
-[] Can manage shop.
-[] Manage Shop Keepers & Buyers.
+> Admin (Owner of the platform):
+* Can create market. 
+* Can approve shop.
+* Can see statistics.
+* Can manage shop.
+* Manage Shop Keepers & Buyers.
 
-Seller (Owner of the goods):
-[] Can create shop
-[] Can configure how shop will be displayed in the market
-[] Can receieve order
-[] Can see order history
-[] Can upload product
+> Seller (Owner of the goods):
+* Can create shop
+* Can configure how shop will be displayed in the market
+* Can receieve order
+* Can see order history
+* Can upload product
 
-Buyer (Who will search for products & buy):
-[] Can search for product
-[] Can create order
-[] Can check order status
-[] Can give remarks
+> Buyer (Who will search for products & buy):
+* Can search for product
+* Can create order
+* Can check order status
+* Can give remarks
