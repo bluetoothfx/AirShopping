@@ -46,11 +46,7 @@ I would like to use moduler based approach. There will be atleast 3-5 services a
 Each services will have separate task to handle things. This is just an inial idea. This might be change over time.
 
 > All the applications in this system will be PWA (First level Implementation)
-# Justification: If I made a native application I know there will be a lot of feature I can give & lot of things I can
-# use easily. But in the other hand when user will use if s/he needs to distribute this application via Google Play. This will
-# be complicated if there is no developer connection & there will be lots of same branded application in play store if in future people # starts to adapt this project any how. But this things also can be handled in different ways if someday this project demands native 
-# application I will go on that way. But for now I think PWA app will be great to start. Those who wants to make business just start our # recommended installer and everything will be ready. Just go on certain link and distribute it any how. People will start using this 
-# application and our business owner will get statistics. 
+##### Justification: If I made a native application I know there will be a lot of feature I can give & lot of things I can use easily. But in the other hand when user will use if s/he needs to distribute this application via Google Play. This will be complicated if there is no developer connection & there will be lots of same branded application in play store if in future people starts to adapt this project any how. But this things also can be handled in different ways if someday this project demands native application I will go on that way. But for now I think PWA app will be great to start. Those who wants to make business just start our recommended installer and everything will be ready. Just go on certain link and distribute it any how. People will start using this application and our business owner will get statistics. 
 
 
 
