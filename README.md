@@ -56,6 +56,8 @@ I will try to keep technical structure simple, as this will easy to host and ser
 
 > Currently I am thinking about **VueJS**,**NodeJs**,**Express**,**MongoDB**,**Redis**,**.Net Core 3**,**JavaScript**, **Docker** as my technical stack.
 
+> Check project status in Project board **https://github.com/bluetoothfx/AirShopping/projects/1#card-36164127**
+
 
 
 
