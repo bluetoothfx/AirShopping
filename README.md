@@ -42,8 +42,7 @@ There will be three basic types of user. Like Admin, Buyer, Seller.
 The project will be very simple for end user to use. They will just follow few steps and the application
 will be ready to serve them. But underlaying the technical base might not be that straight forward.
 
-I would like to use moduler based approach. There will be atleast 3-5 services and more than 2-5 databases.
-Each services will have separate task to handle things. This is just an inial idea. This might be change over time.
+I will try to keep technical structure simple, as this will easy to host and serve.
 
 > All the applications in this system will be **PWA** (First level Implementation)
 
@@ -54,4 +53,9 @@ Each services will have separate task to handle things. This is just an inial id
 ##### Potential technical candidates:
 > Vue Js, Kotlin, Java, .Net Core, Go, JavaScript, Express, Node JS, MongoDB, Redis, Postgresql, RethinkDB, GraphQL, Docker
 > Though I am not familiar with some of the tech stack, I will select and learn what will be best for this project.
+
+> Currently I am thinking about **VueJS**,**NodeJs**,**Express**,**MongoDB**,**Redis**,**.Net Core 3**,**JavaScript**, **Docker** as my technical stack.
+
+
+
 
