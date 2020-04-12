@@ -51,5 +51,7 @@ Each services will have separate task to handle things. This is just an inial id
 
 > Currently the project is under research. I am looking for technical aspects & architecture how I need to build so that it has less complexity as well as easy to use in future.
 
-
+##### Potential technical candidates:
+> Vue Js, Kotlin, Java, .Net Core, Go, JavaScript, Express, Node JS, MongoDB, Redis, Postgresql, RethinkDB, GraphQL, Docker
+> Though I am not familiar with some of the tech stack, I will select and learn what will be best for this project.
 
