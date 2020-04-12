@@ -49,6 +49,7 @@ Each services will have separate task to handle things. This is just an inial id
 
 ##### Justification: If I made a native application I know there will be a lot of features I can give & lot of things I can use easily. But on the other hand when user will use/deploy this project then s/he needs to distribute this application via Google Play. This will be complicated for non-technical person or where Google play access is not available or where internet payment system is not good enough. Also there will be lots of same branded application in Google Play Store if in future people starts to adapt this project any how. But this things also can be handled in different ways if someday this project demands native application I will go on that way if things turn out like that. But for now I think PWA app will be great to start. Those who wants to make business just start our recommended installer and everything will be ready. Just go on certain link and distribute it any how. People will start using this application and our business owner will get statistics. 
 
+> Currently the project is under research. I am looking for technical aspects & architecture how I need to build so that it has less complexity as well as easy to use in future.
 
 
 
