@@ -59,4 +59,4 @@ I will try to keep technical structure simple, as this will easy to host and ser
 > Check project status in Project board **https://github.com/bluetoothfx/AirShopping/projects/1#card-36164127**
 
 #### Need to create wireframe & bring a conceptual design
-
+> Soon will release a technical stack documentation so that we can focus this project technically.
