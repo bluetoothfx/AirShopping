@@ -51,10 +51,10 @@ I will try to keep technical structure simple, as this will easy to host and ser
 > Currently the project is under research. I am looking for technical aspects & architecture how I need to build so that it has less complexity as well as easy to use in future.
 
 ##### Potential technical candidates:
-> Vue Js, Kotlin, Java, .Net Core, Go, JavaScript, Express, Node JS, MongoDB, Redis, Postgresql, RethinkDB, GraphQL, Docker
+> Vue Js, Flutter, Kotlin, Java, .Net Core, Go, JavaScript, Express, Node JS, MongoDB, Redis, Postgresql, RethinkDB, GraphQL, Docker
 > Though I am not familiar with some of the tech stack, I will select and learn what will be best for this project.
 
-> Currently I am thinking about **VueJS**,**NodeJs**,**Express**,**MongoDB**,**Redis**,**.Net Core 3**,**JavaScript**, **Docker** as my technical stack.
+> Currently I am thinking about **VueJS**,**Flutter**,**NodeJs**,**Express**,**MongoDB**,**Redis**,**.Net Core 3**,**JavaScript**, **Docker** as my technical stack.
 
 > Check project status in Project board **https://github.com/bluetoothfx/AirShopping/projects/1#card-36164127**
 
